@@ -1,1 +1,1 @@
-# -Image-Generation-using-FCGAN-and-DCGAN
+Image Generation using FCGAN and DCGAN
